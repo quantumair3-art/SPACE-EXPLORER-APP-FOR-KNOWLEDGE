@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>planets/earth.png</file>
+        <file>planets/jupiter.png</file>
+        <file>planets/mars.png</file>
+        <file>planets/mercury.png</file>
+        <file>planets/neptune.png</file>
+        <file>planets/saturn.png</file>
+        <file>planets/uranus.png</file>
+        <file>planets/venus.png</file>
+        <file>planets/mercury_interior.png</file>
+        <file>planets/venus_interior.png</file>
+        <file>planets/earth_interior.png</file>
+        <file>planets/mars_interior.png</file>
+        <file>planets/jupiter_interior.png</file>
+        <file>planets/saturn_interior.png</file>
+        <file>planets/uranus_interior.png</file>
+        <file>planets/neptune_interior.png</file>
+    </qresource>
+</RCC>
